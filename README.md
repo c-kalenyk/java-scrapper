@@ -13,4 +13,4 @@ A simple service for scraping job listings from [jobs.techstars.com](https://job
 
 ## 📦 Getting Started
 
-See [`INSTALL.md`](./install.md) for local setup instructions.
+See `INSTALL.md` for local setup instructions.
